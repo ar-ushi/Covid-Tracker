@@ -1,14 +1,10 @@
+<h1 align="center">COVID-19 Tracker </h1>
+
+
+<div align= "center">
+  <h4>COVID-19 Tracker made using React and John Hopkins API to visalize daily data effectively in addition to line charts and bar charts to display affected and deaaths on a global and local scale</h4>
+</div>
+
+
 Made using COVID-19 John Hopkins API 
 [source = "https://github.com/mathdroid/covid19"]
-
-Populated the values from the API into cards indicating "Recovered","Infected","Deaths" along with a visualization on a global-scale via line chart & country-wise by bar charts.
-
-Tasks left to be done : 
-
-[ ] Populated the values into a visualization of a globe by d3.js
-
-
-[ ] Fix Card CSS Structure by making it wider
-
-
-[ ]  Deploy
