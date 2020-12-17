@@ -6,5 +6,7 @@
 </div>
 
 
-Made using COVID-19 John Hopkins API 
+<p> Made using COVID-19 John Hopkins API
+  <br>
 [source = "https://github.com/mathdroid/covid19"]
+</p>
